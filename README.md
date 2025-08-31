@@ -3,6 +3,7 @@
 **Ebs Video Parça Kesici**, videolarınızdan birden fazla zaman aralığını **hızlı** (stream copy) ya da **hassas** (yeniden kodlama) modlarla zahmetsizce kesmenizi sağlayan, **modern metro tarzı arayüz**e sahip bir masaüstü uygulamasıdır.
 
 ![Uygulama Ekran Görüntüsü](ebs.png)
+![Uygulama Ekran Görüntüsü](ebs2.png)
 
 ------------------------------------------------------------
 
